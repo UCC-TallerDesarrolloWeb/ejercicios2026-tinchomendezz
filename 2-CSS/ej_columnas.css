@@ -1,0 +1,19 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#tituloPrincipal {
+    color: #6a3eb0;
+    font-size: 36px;
+}
+
+.tituloNoticia {
+    color: #07d519;
+    font-size: 24px;
+}
+
+.tituloTeciario {
+    font-size: 18px;
+    font-weight: bold;
+    color: #d85914;
+}
